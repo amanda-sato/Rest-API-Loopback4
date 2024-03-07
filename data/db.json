@@ -1,0 +1,13 @@
+{
+  "ids": {
+    "Vehicle": 5
+  },
+  "models": {
+    "Vehicle": {
+      "AA-22-33": "{\"plate\":\"AA-22-33\",\"brand\":\"Citroen\",\"model\":\"Cactus\",\"color\":\"Yellow\",\"year\":2024,\"active\":true}",
+      "BB-22-33": "{\"plate\":\"BB-22-33\",\"brand\":\"Ferrari\",\"model\":\"LaFerrari\",\"color\":\"Red\",\"year\":2024,\"active\":true}",
+      "CC-22-33": "{\"plate\":\"CC-22-33\",\"brand\":\"Toyota\",\"model\":\"LaFerrari\",\"color\":\"Blue\",\"year\":2023,\"active\":true}",
+      "CA-21-31": "{\"plate\":\"CA-21-31\",\"brand\":\"Citroen\",\"model\":\"C-Elysee\",\"color\":\"gray\",\"year\":2017,\"active\":false}"
+    }
+  }
+}
